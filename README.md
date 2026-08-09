@@ -12,3 +12,9 @@ Link:
 https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/C
 
 ---
+## Problem 3:  Max Number
+
+Link:
+https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/K
+
+---
