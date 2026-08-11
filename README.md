@@ -36,3 +36,9 @@ Link:
 https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/N
 
 ---
+## Problem 7: Log2
+
+Link:
+https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/P
+
+---
