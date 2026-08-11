@@ -30,3 +30,9 @@ Link:
 https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/J
 
 ---
+## Problem 6: Shift Zeros
+
+Link:
+https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/N
+
+---
