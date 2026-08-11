@@ -42,3 +42,9 @@ Link:
 https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/P
 
 ---
+## Problem 8: The Brothers
+
+Link:
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L
+
+---
