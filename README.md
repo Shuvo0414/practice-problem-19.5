@@ -24,3 +24,9 @@ Link:
 https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J
 
 ---
+## Problem 5: Lucky Division
+
+Link:
+https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/J
+
+---
